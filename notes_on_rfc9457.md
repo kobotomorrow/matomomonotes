@@ -1,3 +1,5 @@
+# RFC 9457についてまとめてみた
+
 少し前に、Xで RFC 9457 "Problem Details for HTTP APIs" が話題になっていて、気になるトピックだったので簡単にまとめておく。
 
 https://www.rfc-editor.org/rfc/rfc9457.html
